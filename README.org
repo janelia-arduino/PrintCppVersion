@@ -1,0 +1,18 @@
+#+TITLE: PrintCppVersion
+#+AUTHOR: Peter Polidoro
+#+EMAIL: peterpolidoro@gmail.com
+
+* Library Information
+  - Name :: PrintCppVersion
+  - Version :: 1.0.0
+  - License :: BSD
+  - URL :: https://github.com/janelia-arduino/PrintCppVersion
+  - Author :: Peter Polidoro
+  - Email :: peterpolidoro@gmail.com
+
+		Print which C++ standard is in use for your Arduino board.
+
+* Library Examples
+
+  [[./examples]]
+
